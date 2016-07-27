@@ -1,0 +1,120 @@
+{
+  "attachments": [
+    {
+      "url": "/Users/annirvine/src/research-and-development/blackhat/samples/attachments/untitled/untitled_69112.txt",
+      "extracted_text": "way through the snow\n",
+      "name": "untitled_69112.txt"
+    }
+  ],
+  "attributes": [
+    {
+      "type": "string",
+      "name": "Action",
+      "value": "Print"
+    },
+    {
+      "type": "double",
+      "name": "Bytes",
+      "value": "57171"
+    },
+    {
+      "type": "string",
+      "name": "Event ID",
+      "value": "8438278"
+    },
+    {
+      "type": "string",
+      "name": "File Path",
+      "value": "Z:\\PD-FILE-01\\THP Users\\zamudio"
+    },
+    {
+      "type": "string",
+      "name": "Job ID",
+      "value": "94528198"
+    },
+    {
+      "type": "double",
+      "name": "Pages Printed",
+      "value": "1"
+    },
+    {
+      "type": "string",
+      "name": "Signature",
+      "value": "Printing a document"
+    },
+    {
+      "type": "string",
+      "name": "Signature ID",
+      "value": "307"
+    },
+    {
+      "type": "boolean",
+      "name": "Success",
+      "value": "true"
+    }
+  ],
+  "type": "data-movement",
+  "entities": [
+    {
+      "entities": [
+        "Notepad"
+      ],
+      "role": "App"
+    },
+    {
+      "entities": [
+        "zamudio"
+      ],
+      "role": "User"
+    },
+    {
+      "entities": [
+        "PD-PRINT-01"
+      ],
+      "role": "Destination"
+    },
+    {
+      "entities": [
+        "192.168.1.12"
+      ],
+      "role": "Destination IP"
+    },
+    {
+      "entities": [
+        "thp.com"
+      ],
+      "role": "Domain"
+    },
+    {
+      "entities": [
+        "untitled_69112.txt"
+      ],
+      "role": "File"
+    },
+    {
+      "entities": [
+        "0307c83ee2e096c36cc683e3d07097e7"
+      ],
+      "role": "Hash"
+    },
+    {
+      "entities": [
+        "HL-3170CDW"
+      ],
+      "role": "Device"
+    },
+    {
+      "entities": [
+        "PD-PC-04"
+      ],
+      "role": "Source"
+    },
+    {
+      "entities": [
+        "10.20.4.84"
+      ],
+      "role": "Source IP"
+    }
+  ],
+  "timestamp": "2016-07-07T21:01:03.365040"
+}
